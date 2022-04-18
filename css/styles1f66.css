@@ -1093,8 +1093,8 @@ p:last-child {
       background: rgba(17, 26, 38, 0.9);
       height: 70px; }
       .header .logo {
-        min-width: 35px !important;
-        max-width: 35px !important;
+        min-width: 90px !important;
+        max-width: 90px !important;
         width: 35px !important; }
       .header__menu {
         position: fixed;
