@@ -1785,8 +1785,8 @@ p:last-child {
     .tokenomics__table-wrapper {
       overflow-x: auto; }
     .tokenomics__table tr:hover td, .tokenomics__table tr.active td {
-      background: #ff1c5e;
-      border-color: #ff1c5e; }
+      background: #51ADE5;
+      border-color: #51ADE5; }
     .tokenomics__table th {
       text-align: center;
       padding: 7px 5px; }
@@ -1974,8 +1974,8 @@ p:last-child {
         .footer__soc-body a:first-child {
           margin: 0; }
         .footer__soc-body a:hover {
-          background: #ff1c5e;
-          border-color: #ff1c5e; }
+          background: #51ADE5;
+          border-color: #51ADE5; }
   .footer__subscrible {
     max-width: 560px;
     margin-top: 50px;
