@@ -2,6 +2,14 @@
 * {
   box-sizing: border-box; }
 
+
+
+.dapp{
+  padding: 10px 15px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.7);
+}
+
 .container {
   margin-right: auto;
   margin-left: auto;
@@ -13,7 +21,28 @@
     width: 750px; } }
 @media (min-width: 992px) {
   .container {
-    width: 970px; } }
+    width: 970px; }
+    .dapp{
+      padding: 10px 20px;
+      background: #51ade5;
+      border-radius: 10px;
+  }
+    
+   }
+
+.socials{
+  margin-top:40px;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+
+.socials i {
+  font-size: 30px;
+}
+
+
+
 @media (min-width: 1200px) {
   .container {
     width: 1170px; } }
